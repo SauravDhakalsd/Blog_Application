@@ -1,0 +1,5 @@
+{
+  "editor.tabCompletion": "on",
+  "deepscan.ignoreConfirmWarning": true,
+  "diffEditor.codeLens": true
+}
